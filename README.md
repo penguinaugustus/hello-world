@@ -1,2 +1,2 @@
-# hello-world
-just another repository 
+# labs for oop
+there are the labs for oop. 
